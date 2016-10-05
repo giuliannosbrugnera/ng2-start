@@ -1,0 +1,23 @@
+{
+  "name": "ng2-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliannosbrugnera/ng2-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giuliannosbrugnera/ng2-start/issues"
+  },
+  "homepage": "https://github.com/giuliannosbrugnera/ng2-start#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
